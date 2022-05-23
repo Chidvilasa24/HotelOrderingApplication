@@ -1,0 +1,2 @@
+# HotelOrderingApplication
+Hotel ordering application is developed where the customers can make an order for the food and avoid the hassles of waiting for the order to be taken by the waiter. This application proposes an online food ordering system that simplifies the ordering procedure. Our goal is to create a comprehensive online ordering system for the foodservice industry that will allow restaurants to rapidly and easily manage an online menu that customers can browse and order with a few clicks.
